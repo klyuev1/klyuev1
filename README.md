@@ -1,35 +1,61 @@
-### Hi there 👋
 
-Работаю в компании <a style="color:#ef3b24" href='https://ekaterinburg.brusnika.ru'>Брусника</a></br>
-Проходил обучение в  <a style="color:#fdd32a" href='https://practicum.yandex.ru/'>Яндекс Практикум</a></br>
-Получаю магистерскую степень в <a style="color:#194395" href='https://rtf.urfu.ru/ru/'>ИРИТ-РТФ </a>
-</p>
+<div id="header">
+  <h3>👋 Привет, меня зовут Артём</h3>
+</div>
 
-### 💻 Технологии и инструменты:
-<p>
-<img alt='git' src='https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white'>
-<img alt='html5' src='https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white'>
-<img alt='css' src='https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white'>
-<img alt='javascript' src='https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E'>
-<img alt='react' src='https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB'>
-<img alt='webpack' src='https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black'>
-<img alt='npm' src='https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white'>
-<img alt='nodejs' src='https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white'>
-<img alt='express' src='https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB'>
-<img alt='mongodb' src='https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white'>
-<img alt='java' src='https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white'>
-<img alt='C#' src='https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white'>
-<img alt='figma' src='https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white'>
-</p>
+<div>
+  Работаю в компании <a style="color:#ef3b24; text-decoration:none; font-weight:600" href='https://ekaterinburg.brusnika.ru'>Брусника</a></br>
+  Проходил обучение в  <a style="color:#fdd32a; text-decoration:none; font-weight:600" href='https://practicum.yandex.ru/'>Яндекс Практикум</a></br>
+  Получаю магистерскую степень в <a style="color:#194395; text-decoration:none; font-weight:600" href='https://rtf.urfu.ru/ru/'>ИРИТ-РТФ </a>
+</div>
 
-### 🥷 Cтатистика профиля:
-<!-- <table>
-  <tr>
-    <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=Jojokora135791&theme=dark&background=000000" alt="webDev's Github stats" />
-    </td>
-    <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jojokora135791&layout=compact&theme=vision-friendly-dark" />
-    </td>
-  </tr>
-</table> -->
+#### Frontend Tool Stack :
+<div> 
+  <img src="https://img.shields.io/badge/javascript-%23404d59.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript Badge" />
+  <img src="https://img.shields.io/badge/TypeScript-%23404d59.svg?style=for-the-badge&logo=typescript&logoColor=blue" alt="TypeScript Badge" />
+  <img src="https://img.shields.io/badge/react-%23404d59.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Badge" />
+  <img src="https://img.shields.io/badge/html5-%23404d59.svg?style=for-the-badge&logo=html5&logoColor=orange" alt="HTML5 Badge" />
+  <img src="https://img.shields.io/badge/css3-%23404d59.svg?style=for-the-badge&logo=css3&logoColor=lightblue" alt="CSS3 Badge" />
+  <img src="https://img.shields.io/badge/SASS-%23404d59.svg?style=for-the-badge&logo=SASS&logoColor=hotpink" alt="SASS Badge" />
+</div>
+
+#### Backend Tool Stack :
+<div id="backend">
+  <img src="https://img.shields.io/badge/node.js-%23404d59?style=for-the-badge&logo=node.js&logoColor=green" alt="NodeJS Badge" />
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js Badge" />
+  <img src="https://img.shields.io/badge/MongoDB-%23404d59.svg?style=for-the-badge&logo=mongodb&logoColor=green" alt="MongoDB Badge" />
+  <img src="https://img.shields.io/badge/nginx-%23404d59.svg?style=for-the-badge&logo=nginx&logoColor=green" alt="Nginx Badge" />		
+</div>
+
+#### General Tool Stack :
+<div id="general">
+  <img src="https://img.shields.io/badge/git-%23404d59.svg?style=for-the-badge&logo=git&logoColor=red" alt="Git Badge" />
+  <img src="https://img.shields.io/badge/ESLint-%23404d59?style=for-the-badge&logo=eslint&logoColor=violet" alt="ESLint Badge" />
+  <img src="https://img.shields.io/badge/NPM-%23404d59?style=for-the-badge&logo=npm&logoColor=red" alt="NPM Badge" />
+  <img src="https://img.shields.io/badge/Webpack-%23404d59?style=for-the-badge&logo=webpack&logoColor=blue" alt="webpack Badge" />
+  <img src="https://img.shields.io/badge/figma-%23404d59.svg?style=for-the-badge&logo=figma&logoColor=purple" alt="Figma Badge" />
+  <img src="https://img.shields.io/badge/vscode-%23404d59?style=for-the-badge&logo=vscode&logoColor=white" alt="VScode Badge" />
+  <img src="https://img.shields.io/badge/Jest-%23404d59?style=for-the-badge&logo=jest&logoColor=red" alt="Jest Badge" />
+  <img src="https://img.shields.io/badge/REST API-%23404d59?style=for-the-badge&logo=restapi&logoColor=lightblue" alt="RESTAPI Badge" />
+</div>
+<br/>
+
+#### My contacts:
+<div id="badges align="center">
+  <a href="mailto:artemkluev626@gmail.com">
+    <img src="https://img.shields.io/badge/Google-Mail-red?style=for-the-badge&logo=Google&logoColor=white" alt="Google Badge"/>
+  </a>
+  <a href="https://t.me/ArtemKluev">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+ </div>
+
+<br/>
+
+---
+
+<br/>
+
+<div>
+  <img src="https://komarev.com/ghpvc/?username=klyuev1&style=flat-square&color=brightgreen" alt=""/>
+</div>
