@@ -1,12 +1,10 @@
 
 <div id="header">
-  <h3>👋 Привет, меня зовут Артём</h3>
+  <h3>👋 Hi, my name is Artyom</h3>
 </div>
 
 <div>
-  Работаю в компании <a href='https://ekaterinburg.brusnika.ru' style="color:#ef3b24; text-decoration:none;font-weight:600">Брусника</a></br>
-  Проходил обучение в  <a href='https://practicum.yandex.ru/' style="color:#fdd32a; text-decoration:none; font-weight:600">Яндекс Практикум</a></br>
-  Получаю магистерскую степень в <a href='https://rtf.urfu.ru/ru/' style="color:#194395; text-decoration:none; font-weight:600">ИРИТ-РТФ</a>
+  I am an aspiring frontend developer. I am currently working in the field of design and development for a construction company. The technology stack and contacts for cooperation are listed below.
 </div>
 
 #### Frontend Tool Stack :
