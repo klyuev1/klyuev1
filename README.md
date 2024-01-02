@@ -4,9 +4,9 @@
 </div>
 
 <div>
-  Работаю в компании <a style="color:#ef3b24; text-decoration:none; font-weight:600" href='https://ekaterinburg.brusnika.ru'>Брусника</a></br>
-  Проходил обучение в  <a style="color:#fdd32a; text-decoration:none; font-weight:600" href='https://practicum.yandex.ru/'>Яндекс Практикум</a></br>
-  Получаю магистерскую степень в <a style="color:#194395; text-decoration:none; font-weight:600" href='https://rtf.urfu.ru/ru/'>ИРИТ-РТФ </a>
+  Работаю в компании <a href='https://ekaterinburg.brusnika.ru' style="color:#ef3b24; text-decoration:none;font-weight:600">Брусника</a></br>
+  Проходил обучение в  <a href='https://practicum.yandex.ru/' style="color:#fdd32a; text-decoration:none; font-weight:600">Яндекс Практикум</a></br>
+  Получаю магистерскую степень в <a href='https://rtf.urfu.ru/ru/' style="color:#194395; text-decoration:none; font-weight:600">ИРИТ-РТФ</a>
 </div>
 
 #### Frontend Tool Stack :
